@@ -33,12 +33,3 @@ L'analyse de la matrice de confusion a révélé des difficultés à distinguer 
 * **Langage :** Python
 * **Librairies :** TensorFlow, Keras, Scikit-learn, NumPy, Matplotlib, Seaborn
 * **Notebook :** Jupyter Notebook (pour le code et l'analyse)
-
-### Structure du projet
-.
-├── notebooks/
-│   └── Projet_Deep_Learning_Classification_chiens.ipynb
-├── data/
-│   └── (les images de chiens)
-├── README.md
-└── mon_modele.h5
